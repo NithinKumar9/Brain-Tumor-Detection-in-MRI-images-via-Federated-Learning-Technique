@@ -11,4 +11,4 @@ This project highlights the feasibility of deploying collaborative AI solutions 
 Dataset from kaggle
 
 # Report
-For Project report DM to nithinbyadav999@gmail.com
+For Project Report DM to nithinbyadav999@gmail.com
